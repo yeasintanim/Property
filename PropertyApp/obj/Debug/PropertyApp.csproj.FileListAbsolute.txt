@@ -1,0 +1,6 @@
+E:\SEIP.NET\Batch 20\2018.10.26\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe.config
+E:\SEIP.NET\Batch 20\2018.10.26\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe
+E:\SEIP.NET\Batch 20\2018.10.26\PropertyApp\PropertyApp\bin\Debug\PropertyApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.26\PropertyApp\PropertyApp\obj\Debug\PropertyApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.26\PropertyApp\PropertyApp\obj\Debug\PropertyApp.exe
+E:\SEIP.NET\Batch 20\2018.10.26\PropertyApp\PropertyApp\obj\Debug\PropertyApp.pdb
